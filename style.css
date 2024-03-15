@@ -24,3 +24,9 @@ footer {
     font-style: italic;
 }
 
+img {
+    width: 200px;
+    align-items: center;
+    border-radius: 40%;
+}
+
